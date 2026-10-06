@@ -5,4 +5,3 @@ End-to-End implementation
 <<<<<<< Updated upstream
 =======
 # Another change has been done now
->>>>>>> Stashed changes
